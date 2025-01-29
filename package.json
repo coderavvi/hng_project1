@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "name": "project-1",
+  "description": "HNG level 0 project for backend devs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderavvi/hng_project1.git"
+  },
+  "author": "coderavvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderavvi/hng_project1/issues"
+  },
+  "homepage": "https://github.com/coderavvi/hng_project1#readme"
+}
