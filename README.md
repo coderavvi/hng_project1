@@ -36,13 +36,11 @@ The server will start on `http://localhost:3000/` by default.
 - body `none`
 ### Response format
 ```JSON
-[
   {
     "email": "iamtabson@gmail.com",
     "current_datetime": "2025-01-30T11:21:01.529Z",
     "github_url": "<https://github.com/coderavvi/hng_project1.git>"
   }
-]
 ```
 ### Example Usage
 Using JavaScript
